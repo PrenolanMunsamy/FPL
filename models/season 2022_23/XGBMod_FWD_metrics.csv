@@ -1,0 +1,4 @@
+.metric,.estimator,.estimate,data_set
+rmse,standard,1.2670105122490802,train
+rmse,standard,1.4096624595838168,validation
+rmse,standard,1.2693234241065428,test
