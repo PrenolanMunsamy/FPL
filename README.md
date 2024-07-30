@@ -39,11 +39,14 @@ The Fantasy Premier League Prediction Model System leverages advanced machine le
 - **Why Chosen:** These models and features provide a comprehensive approach to capturing the complexities of player performance and match contexts, ensuring accurate and reliable predictions.
 
 ## Future Work
-Incorporation of Advanced Statistics: Expanding the dataset to include more detailed player and match statistics.
-Real-Time Data Integration: Developing functionality for real-time data updates to refine predictions.
-Exploration of Additional Modeling Techniques: Investigating other machine learning algorithms and approaches to improve prediction accuracy.
+- Incorporation of Advanced Statistics: Expanding the dataset to include more detailed player and match statistics.
+- Real-Time Data Integration: Developing functionality for real-time data updates to refine predictions.
+- Exploration of Additional Modeling Techniques: Investigating other machine learning algorithms and approaches to improve prediction accuracy.
 
 ## Data Sources
 - **Historical Player Performance Data:** Sourced from [https://github.com/vaastav/Fantasy-Premier-League/tree/master], this includes detailed statistics on individual player performances across previous seasons.
 - **Fixture Difficulty Ratings:** Provided by [https://github.com/vaastav/Fantasy-Premier-League/tree/master], these ratings indicate the relative difficulty of each player's upcoming matches.
 - Additional relevant data to enhance predictions.
+
+## Contributing
+- Prenolan Munsamy
