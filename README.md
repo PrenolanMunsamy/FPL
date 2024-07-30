@@ -13,9 +13,6 @@ Welcome to the Fantasy Premier League (FPL) Prediction Model System! This projec
 -   [Future Work](#future-work)
 -   [Data Sources](#data-sources)
 -   [Contributing](#contributing)
--   [License](#license)
--   [Contact](#contact)
--   [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
