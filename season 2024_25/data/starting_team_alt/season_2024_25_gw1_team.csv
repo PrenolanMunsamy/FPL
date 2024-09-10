@@ -1,0 +1,16 @@
+team,name,position,value,previous_season_sum_total_points,starting_11,captain
+Arsenal,ben white,DEF,6.5,182,Yes,not captain
+Arsenal,william saliba,DEF,6,164,Yes,not captain
+Crystal Palace,joachim andersen,DEF,4.5,121,Yes,not captain
+Crystal Palace,tyrick mitchell,DEF,5,119,no,not captain
+Liverpool,trent alexander arnold,DEF,7,122,Yes,not captain
+Nott'm Forest,chris wood,FWD,6,131,Yes,not captain
+Brentford,yoane wissa,FWD,6,131,no,not captain
+Man City,erling haaland,FWD,15,217,Yes,captain
+Everton,jordan pickford,GK,5,153,no,not captain
+Arsenal,david raya,GK,5.5,135,Yes,not captain
+Fulham,andreas pereira,MID,5.5,127,Yes,not captain
+Everton,dwight mcneil,MID,5.5,124,Yes,not captain
+West Ham,tomas soucek,MID,5,116,Yes,not captain
+Newcastle,sean longstaff,MID,5,110,no,not captain
+Liverpool,mohamed salah,MID,12.5,211,Yes,not captain

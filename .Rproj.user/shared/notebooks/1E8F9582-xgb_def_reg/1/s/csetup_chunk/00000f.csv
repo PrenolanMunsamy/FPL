@@ -1,0 +1,8 @@
+"0","library(tidyverse)"
+"0","library(vetiver)"
+"0","library(pins)"
+"0","library(yardstick)"
+"0","knitr::opts_chunk$set(echo = FALSE)"
+"0","v <- vetiver_pin_read(params$board, params$name, version = params$version)"
+"0","v_meta <- pin_meta(params$board, params$name)"
+"0","theme_set(theme_light())"

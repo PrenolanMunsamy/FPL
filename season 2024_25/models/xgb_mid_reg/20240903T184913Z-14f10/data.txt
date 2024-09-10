@@ -1,0 +1,34 @@
+file: xgb_mid_reg.rds
+file_size: 2749227
+pin_hash: 14f109e7b51e50f4
+type: rds
+title: 'xgb_mid_reg: a pinned list'
+description: A xgboost regression modeling workflow
+tags: ~
+urls: ~
+created: 20240903T184913Z
+api_version: 1
+user:
+  metrics:
+    .metric:
+    - rmse
+    - rmse
+    - rmse
+    .estimator:
+    - standard
+    - standard
+    - standard
+    .estimate:
+    - 0.9691635
+    - 1.2029388
+    - 1.1231633
+    data_set:
+    - train
+    - validation
+    - test
+  required_pkgs:
+  - parsnip
+  - recipes
+  - workflows
+  - xgboost
+  renv_lock: ~

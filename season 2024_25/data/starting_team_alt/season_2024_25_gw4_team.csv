@@ -1,0 +1,16 @@
+team,name,position,value,previous_season_sum_total_points,starting_11,captain,key_player,.pred
+Liverpool,trent alexander arnold,DEF,7,122,Yes,not captain,0,3.670413146018982
+Arsenal,ben white,DEF,6.5,182,Yes,not captain,0,3.01172482252121
+Crystal Palace,tyrick mitchell,DEF,5,119,Yes,not captain,0,2.947760841846466
+Arsenal,william saliba,DEF,6,164,Yes,not captain,0,2.6275506258010863
+Newcastle,dan burn,DEF,4.5,NA,no,not captain,0,2.399580330371857
+Man City,erling haaland,FWD,15,217,Yes,not captain,1,4.392816596031189
+Brentford,yoane wissa,FWD,6,131,Yes,not captain,0,2.3749877853393557
+Nott'm Forest,chris wood,FWD,6,131,no,not captain,0,2.188065399169922
+Arsenal,david raya,GK,5.5,135,Yes,not captain,0,2.6805624198913574
+Everton,jordan pickford,GK,5,153,no,not captain,0,2.6471638665199277
+Liverpool,mohamed salah,MID,12.5,211,Yes,captain,1,4.713732151985169
+Fulham,andreas pereira,MID,5.5,127,Yes,not captain,0,2.7603365707397463
+West Ham,tomas soucek,MID,5,116,Yes,not captain,0,2.3904915008544925
+Everton,dwight mcneil,MID,5.5,124,Yes,not captain,0,2.377927038192749
+Newcastle,sean longstaff,MID,5,110,no,not captain,0,1.4421587274074554

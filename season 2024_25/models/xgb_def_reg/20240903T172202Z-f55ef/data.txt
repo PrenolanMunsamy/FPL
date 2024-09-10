@@ -1,0 +1,17 @@
+file: xgb_def_reg.rds
+file_size: 2443599
+pin_hash: f55efa0b322493e5
+type: rds
+title: 'xgb_def_reg: a pinned list'
+description: A xgboost regression modeling workflow
+tags: ~
+urls: ~
+created: 20240903T172202Z
+api_version: 1
+user:
+  required_pkgs:
+  - parsnip
+  - recipes
+  - workflows
+  - xgboost
+  renv_lock: ~

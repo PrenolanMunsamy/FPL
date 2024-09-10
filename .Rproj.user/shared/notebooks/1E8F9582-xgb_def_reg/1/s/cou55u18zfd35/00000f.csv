@@ -1,0 +1,94 @@
+"0","    glimpse(v$prototype)"
+"1","Rows: 0"
+"1",""
+"1","
+"
+"1","Columns: 82"
+"1",""
+"1","
+"
+"1","$ was_home                                          [3m[38;5;246m<chr>[39m[23m 
+$ value_increase_decrease                           [3m[38;5;246m<dbl>[39m[23m 
+$ value_lag_1                                       [3m[38;5;246m<dbl>[39m[23m 
+$ total_points_lag_1                                [3m[38;5;246m<dbl>[39m[23m 
+$ scored_more_than_2_points_lag_1                   [3m[38;5;246m<dbl>[39m[23m 
+$ total_points_grouped_lag_1                        [3m[38;5;246m<dbl>[39m[23m 
+$ minutes_lag_1                                     [3m[38;5;246m<dbl>[39m[23m 
+$ transfers_in_lag_1                                [3m[38;5;246m<dbl>[39m[23m 
+$ transfers_out_lag_1                               [3m[38;5;246m<dbl>[39m[23m 
+$ got_bonus_lag_1                                   [3m[38;5;246m<dbl>[39m[23m 
+$ ict_index_lag_1                                   [3m[38;5;246m<dbl>[39m[23m 
+$ match_result_lag_1                                [3m[38;5;246m<dbl>[39m[23m 
+$ shots_lag_1                                       [3m[38;5;246m<dbl>[39m[23m 
+$ starter_vs_sub_lag_1                              [3m[38;5;246m<dbl>[39m[23m 
+$ xA_lag_1                                          [3m[38;5;246m<dbl>[39m[23m 
+$ key_passes_lag_1                                  [3m[38;5;246m<dbl>[39m[23m 
+$ npg_lag_1                                         [3m[38;5;246m<dbl>[39m[23m 
+$ npxG_lag_1                                        [3m[38;5;246m<dbl>[39m[23m 
+$ xGChain_lag_1                                     [3m[38;5;246m<dbl>[39m[23m 
+$ xGBuildup_lag_1                                   [3m[38;5;246m<dbl>[39m[23m 
+$ value_sum_last_5                                  [3m[38;5;246m<dbl>[39m[23m 
+$ total_points_sum_last_5                           [3m[38;5;246m<dbl>[39m[23m 
+$ scored_more_than_2_points_sum_last_5              [3m[38;5;246m<dbl>[39m[23m 
+$ minutes_sum_last_5                                [3m[38;5;246m<dbl>[39m[23m 
+$ transfers_in_sum_last_5                           [3m[38;5;246m<dbl>[39m[23m 
+$ transfers_out_sum_last_5                          [3m[38;5;246m<dbl>[39m[23m 
+$ got_bonus_sum_last_5                              [3m[38;5;246m<dbl>[39m[23m 
+$ ict_index_sum_last_5                              [3m[38;5;246m<dbl>[39m[23m 
+$ shots_sum_last_5                                  [3m[38;5;246m<dbl>[39m[23m 
+$ starter_vs_sub_sum_last_5                         [3m[38;5;246m<dbl>[39m[23m 
+$ xA_sum_last_5                                     [3m[38;5;246m<dbl>[39m[23m 
+$ key_passes_sum_last_5                             [3m[38;5;246m<dbl>[39m[23m 
+$ npg_sum_last_5                                    [3m[38;5;246m<dbl>[39m[23m 
+$ npxG_sum_last_5                                   [3m[38;5;246m<dbl>[39m[23m 
+$ xGChain_sum_last_5                                [3m[38;5;246m<dbl>[39m[23m 
+$ xGBuildup_sum_last_5                              [3m[38;5;246m<dbl>[39m[23m 
+$ team_value_sum_last_5                             [3m[38;5;246m<dbl>[39m[23m 
+$ team_total_points_sum_last_5                      [3m[38;5;246m<dbl>[39m[23m 
+$ team_scored_more_than_2_points_sum_last_5         [3m[38;5;246m<dbl>[39m[23m 
+$ team_got_bonus_sum_last_5                         [3m[38;5;246m<dbl>[39m[23m 
+$ team_ict_index_sum_last_5                         [3m[38;5;246m<dbl>[39m[23m 
+$ opp_team_value_sum_last_5                         [3m[38;5;246m<dbl>[39m[23m 
+$ opp_team_total_points_sum_last_5                  [3m[38;5;246m<dbl>[39m[23m 
+$ opp_team_scored_more_than_2_points_sum_last_5     [3m[38;5;246m<dbl>[39m[23m 
+$ opp_team_got_bonus_sum_last_5                     [3m[38;5;246m<dbl>[39m[23m 
+$ opp_team_ict_index_sum_last_5                     [3m[38;5;246m<dbl>[39m[23m 
+$ rel_total_points_to_team_sum_last_5               [3m[38;5;246m<dbl>[39m[23m 
+$ rel_total_points_to_opp_team_sum_last_5           [3m[38;5;246m<dbl>[39m[23m 
+$ rel_team_to_opp_total_points_sum_last_5           [3m[38;5;246m<dbl>[39m[23m 
+$ value_avg_last_5                                  [3m[38;5;246m<dbl>[39m[23m 
+$ total_points_avg_last_5                           [3m[38;5;246m<dbl>[39m[23m 
+$ scored_more_than_2_points_avg_last_5              [3m[38;5;246m<dbl>[39m[23m 
+$ minutes_avg_last_5                                [3m[38;5;246m<dbl>[39m[23m 
+$ transfers_in_avg_last_5                           [3m[38;5;246m<dbl>[39m[23m 
+$ transfers_out_avg_last_5                          [3m[38;5;246m<dbl>[39m[23m 
+$ got_bonus_avg_last_5                              [3m[38;5;246m<dbl>[39m[23m 
+$ ict_index_avg_last_5                              [3m[38;5;246m<dbl>[39m[23m 
+$ shots_avg_last_5                                  [3m[38;5;246m<dbl>[39m[23m 
+$ starter_vs_sub_avg_last_5                         [3m[38;5;246m<dbl>[39m[23m 
+$ xA_avg_last_5                                     [3m[38;5;246m<dbl>[39m[23m 
+$ key_passes_avg_last_5                             [3m[38;5;246m<dbl>[39m[23m 
+$ npg_avg_last_5                                    [3m[38;5;246m<dbl>[39m[23m 
+$ npxG_avg_last_5                                   [3m[38;5;246m<dbl>[39m[23m 
+$ xGChain_avg_last_5                                [3m[38;5;246m<dbl>[39m[23m 
+$ xGBuildup_avg_last_5                              [3m[38;5;246m<dbl>[39m[23m 
+$ difficulty_ratio                                  [3m[38;5;246m<dbl>[39m[23m 
+$ value_std_last_5_to_avg_ratio                     [3m[38;5;246m<dbl>[39m[23m 
+$ total_points_std_last_5_to_avg_ratio              [3m[38;5;246m<dbl>[39m[23m 
+$ scored_more_than_2_points_std_last_5_to_avg_ratio [3m[38;5;246m<dbl>[39m[23m 
+$ minutes_std_last_5_to_avg_ratio                   [3m[38;5;246m<dbl>[39m[23m 
+$ transfers_in_std_last_5_to_avg_ratio              [3m[38;5;246m<dbl>[39m[23m 
+$ transfers_out_std_last_5_to_avg_ratio             [3m[38;5;246m<dbl>[39m[23m 
+$ got_bonus_std_last_5_to_avg_ratio                 [3m[38;5;246m<dbl>[39m[23m 
+$ ict_index_std_last_5_to_avg_ratio                 [3m[38;5;246m<dbl>[39m[23m 
+$ shots_std_last_5_to_avg_ratio                     [3m[38;5;246m<dbl>[39m[23m 
+$ starter_vs_sub_std_last_5_to_avg_ratio            [3m[38;5;246m<dbl>[39m[23m 
+$ xA_std_last_5_to_avg_ratio                        [3m[38;5;246m<dbl>[39m[23m 
+$ key_passes_std_last_5_to_avg_ratio                [3m[38;5;246m<dbl>[39m[23m 
+$ npg_std_last_5_to_avg_ratio                       [3m[38;5;246m<dbl>[39m[23m 
+$ npxG_std_last_5_to_avg_ratio                      [3m[38;5;246m<dbl>[39m[23m 
+$ xGChain_std_last_5_to_avg_ratio                   [3m[38;5;246m<dbl>[39m[23m 
+$ xGBuildup_std_last_5_to_avg_ratio                 [3m[38;5;246m<dbl>[39m[23m "
+"1",""
+"1","
+"

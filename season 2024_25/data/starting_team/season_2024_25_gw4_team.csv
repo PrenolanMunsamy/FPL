@@ -1,0 +1,16 @@
+team,name,position,value,previous_season_sum_total_points,starting_11,captain,key_player,.pred
+Arsenal,ben white,DEF,6.5,182,Yes,not captain,0,3.01172482252121
+Man City,ruben dias,DEF,5.5,NA,Yes,not captain,0,2.9930284333229067
+Crystal Palace,tyrick mitchell,DEF,5,119,Yes,not captain,0,2.947760841846466
+Man City,manuel akanji,DEF,5.5,NA,Yes,not captain,0,2.8727264308929445
+Arsenal,william saliba,DEF,6,164,no,not captain,0,2.6275506258010863
+Arsenal,kai havertz,FWD,8,NA,Yes,not captain,0,2.6348849892616273
+Brentford,yoane wissa,FWD,6,131,Yes,not captain,0,2.3749877853393557
+Nott'm Forest,chris wood,FWD,6,131,no,not captain,0,2.188065399169922
+Fulham,bernd leno,GK,5,133,Yes,captain,0,3.9181197319030763
+Everton,jordan pickford,GK,5,153,no,not captain,0,2.6471638665199277
+Newcastle,anthony gordon,MID,7.5,183,Yes,not captain,0,3.234338650226593
+Newcastle,bruno guimaraes,MID,6.5,153,Yes,not captain,0,3.1339765462875366
+Chelsea,cole palmer,MID,10.5,244,Yes,not captain,0,3.119338354110718
+Man City,phil foden,MID,9.5,230,Yes,not captain,0,2.587950053215027
+West Ham,jarrod bowen,MID,7.5,182,no,not captain,0,2.433464161872864

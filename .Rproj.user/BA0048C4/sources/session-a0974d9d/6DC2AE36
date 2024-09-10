@@ -1,0 +1,26 @@
+{
+    "id": "6DC2AE36",
+    "path": "~/FPL/season 2024_25/weekly prediction scripts/0. Data Scraper.R",
+    "project_path": "season 2024_25/weekly prediction scripts/0. Data Scraper.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1725991009791.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "101,41",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1725909963,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1725909963,
+    "read_only": false,
+    "read_only_alternatives": []
+}

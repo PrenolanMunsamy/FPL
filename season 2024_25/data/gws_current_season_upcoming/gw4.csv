@@ -1,0 +1,656 @@
+name,position,team,kickoff_time,opponent_team,value,was_home
+Leon Bailey,MID,Aston Villa,2024-09-14,8,64,TRUE
+Ross Barkley,MID,Aston Villa,2024-09-14,8,53,TRUE
+Enzo Barrenechea,MID,Aston Villa,2024-09-14,8,49,TRUE
+Emiliano Buendía Stati,MID,Aston Villa,2024-09-14,8,54,TRUE
+Matty Cash,DEF,Aston Villa,2024-09-14,8,44,TRUE
+Leander Dendoncker,MID,Aston Villa,2024-09-14,8,45,TRUE
+Moussa Diaby,MID,Aston Villa,2024-09-14,8,65,TRUE
+Diego Carlos Santos Silva,DEF,Aston Villa,2024-09-14,8,45,TRUE
+Lucas Digne,DEF,Aston Villa,2024-09-14,8,45,TRUE
+Lewis Dobbin,MID,Aston Villa,2024-09-14,8,50,TRUE
+Jhon Durán,FWD,Aston Villa,2024-09-14,8,60,TRUE
+Joe Gauci,GK,Aston Villa,2024-09-14,8,40,TRUE
+Kortney Hause,DEF,Aston Villa,2024-09-14,8,40,TRUE
+Samuel Iling-Junior,MID,Aston Villa,2024-09-14,8,54,TRUE
+Boubacar Kamara,MID,Aston Villa,2024-09-14,8,50,TRUE
+Kaine Kesler-Hayden,DEF,Aston Villa,2024-09-14,8,40,TRUE
+Ezri Konsa Ngoyo,DEF,Aston Villa,2024-09-14,8,45,TRUE
+Ian Maatsen,DEF,Aston Villa,2024-09-14,8,49,TRUE
+Filip Marschall,GK,Aston Villa,2024-09-14,8,40,TRUE
+Emiliano Martínez Romero,GK,Aston Villa,2024-09-14,8,50,TRUE
+John McGinn,MID,Aston Villa,2024-09-14,8,55,TRUE
+Tyrone Mings,DEF,Aston Villa,2024-09-14,8,44,TRUE
+Kosta Nedeljković,DEF,Aston Villa,2024-09-14,8,40,TRUE
+Robin Olsen,GK,Aston Villa,2024-09-14,8,45,TRUE
+Pau Torres,DEF,Aston Villa,2024-09-14,8,45,TRUE
+Jacob Ramsey,MID,Aston Villa,2024-09-14,8,55,TRUE
+Morgan Rogers,MID,Aston Villa,2024-09-14,8,51,TRUE
+Viljami Sinisalo,GK,Aston Villa,2024-09-14,8,40,TRUE
+Lino da Cruz Sousa,DEF,Aston Villa,2024-09-14,8,40,TRUE
+Youri Tielemans,MID,Aston Villa,2024-09-14,8,55,TRUE
+Ollie Watkins,FWD,Aston Villa,2024-09-14,8,89,TRUE
+Amadou Onana,MID,Aston Villa,2024-09-14,8,51,TRUE
+Jaden Philogene,MID,Aston Villa,2024-09-14,8,54,TRUE
+Lamare Bogarde,DEF,Aston Villa,2024-09-14,8,40,TRUE
+Sil Swinkels,DEF,Aston Villa,2024-09-14,8,40,TRUE
+Oliwier Zych,GK,Aston Villa,2024-09-14,8,40,TRUE
+Max Aarons,DEF,Bournemouth,2024-09-14,6,45,TRUE
+Tyler Adams,MID,Bournemouth,2024-09-14,6,50,TRUE
+Jaidon Anthony,MID,Bournemouth,2024-09-14,6,45,TRUE
+David Brooks,MID,Bournemouth,2024-09-14,6,49,TRUE
+Ryan Christie,MID,Bournemouth,2024-09-14,6,49,TRUE
+Lewis Cook,MID,Bournemouth,2024-09-14,6,50,TRUE
+Enes Ünal,FWD,Bournemouth,2024-09-14,6,54,TRUE
+Romain Faivre,MID,Bournemouth,2024-09-14,6,50,TRUE
+Hamed Traorè,MID,Bournemouth,2024-09-14,6,45,TRUE
+James Hill,DEF,Bournemouth,2024-09-14,6,40,TRUE
+Daniel Jebbison,FWD,Bournemouth,2024-09-14,6,45,TRUE
+Milos Kerkez,DEF,Bournemouth,2024-09-14,6,45,TRUE
+Justin Kluivert,MID,Bournemouth,2024-09-14,6,54,TRUE
+Chris Mepham,DEF,Bournemouth,2024-09-14,6,44,TRUE
+Dango Ouattara,MID,Bournemouth,2024-09-14,6,50,TRUE
+Alex Paulsen,GK,Bournemouth,2024-09-14,6,40,TRUE
+Philip Billing,MID,Bournemouth,2024-09-14,6,49,TRUE
+Alex Scott,MID,Bournemouth,2024-09-14,6,50,TRUE
+Antoine Semenyo,MID,Bournemouth,2024-09-14,6,56,TRUE
+Marcos Senesi,DEF,Bournemouth,2024-09-14,6,49,TRUE
+Luis Sinisterra,MID,Bournemouth,2024-09-14,6,50,TRUE
+Adam Smith,DEF,Bournemouth,2024-09-14,6,45,TRUE
+Marcus Tavernier,MID,Bournemouth,2024-09-14,6,55,TRUE
+Mark Travers,GK,Bournemouth,2024-09-14,6,45,TRUE
+Illia Zabarnyi,DEF,Bournemouth,2024-09-14,6,45,TRUE
+Kepa Arrizabalaga,GK,Bournemouth,2024-09-14,6,45,TRUE
+Dean Huijsen,DEF,Bournemouth,2024-09-14,6,45,TRUE
+Julián Araujo Zúñiga,DEF,Bournemouth,2024-09-14,6,45,TRUE
+Will Dennis,GK,Bournemouth,2024-09-14,6,40,TRUE
+Francisco Evanilson de Lima Barbosa,FWD,Bournemouth,2024-09-14,6,60,TRUE
+Simon Adingra,MID,Brighton,2024-09-14,10,55,TRUE
+Benicio Baker-Boaitey,MID,Brighton,2024-09-14,10,45,TRUE
+Carlos Baleba,MID,Brighton,2024-09-14,10,50,TRUE
+Valentín Barco,DEF,Brighton,2024-09-14,10,40,TRUE
+Amario Cozier-Duberry,MID,Brighton,2024-09-14,10,45,TRUE
+Mahmoud Dahoud,MID,Brighton,2024-09-14,10,49,TRUE
+Lewis Dunk,DEF,Brighton,2024-09-14,10,45,TRUE
+Julio Enciso,MID,Brighton,2024-09-14,10,54,TRUE
+Pervis Estupiñán,DEF,Brighton,2024-09-14,10,50,TRUE
+Evan Ferguson,FWD,Brighton,2024-09-14,10,55,TRUE
+Billy Gilmour,MID,Brighton,2024-09-14,10,50,TRUE
+Pascal Groß,MID,Brighton,2024-09-14,10,65,TRUE
+Jack Hinshelwood,MID,Brighton,2024-09-14,10,50,TRUE
+Ibrahim Osman,MID,Brighton,2024-09-14,10,50,TRUE
+Igor Julio dos Santos de Paulo,DEF,Brighton,2024-09-14,10,44,TRUE
+João Pedro Junqueira de Jesus,FWD,Brighton,2024-09-14,10,57,TRUE
+Kacper Kozłowski,MID,Brighton,2024-09-14,10,45,TRUE
+Tariq Lamptey,DEF,Brighton,2024-09-14,10,45,TRUE
+Solly March,MID,Brighton,2024-09-14,10,65,TRUE
+Adrian Mazilu,MID,Brighton,2024-09-14,10,45,TRUE
+James Milner,MID,Brighton,2024-09-14,10,50,TRUE
+Yankuba Minteh,MID,Brighton,2024-09-14,10,55,TRUE
+Mitoma Kaoru,MID,Brighton,2024-09-14,10,66,TRUE
+Jakub Moder,MID,Brighton,2024-09-14,10,45,TRUE
+Mark O’Mahony,FWD,Brighton,2024-09-14,10,45,TRUE
+Odeluga Offiah,DEF,Brighton,2024-09-14,10,40,TRUE
+Cameron Peupion,MID,Brighton,2024-09-14,10,45,TRUE
+Jeremy Sarmiento Morante,MID,Brighton,2024-09-14,10,49,TRUE
+Jason Steele,GK,Brighton,2024-09-14,10,45,TRUE
+Deniz Undav,FWD,Brighton,2024-09-14,10,55,TRUE
+Jan Paul van Hecke,DEF,Brighton,2024-09-14,10,45,TRUE
+Joël Veltman,DEF,Brighton,2024-09-14,10,45,TRUE
+Bart Verbruggen,GK,Brighton,2024-09-14,10,45,TRUE
+Adam Webster,DEF,Brighton,2024-09-14,10,45,TRUE
+Danny Welbeck,FWD,Brighton,2024-09-14,10,57,TRUE
+Mats Wieffer,MID,Brighton,2024-09-14,10,50,TRUE
+Brajan Gruda,MID,Brighton,2024-09-14,10,55,TRUE
+Yasin Ayari,MID,Brighton,2024-09-14,10,50,TRUE
+Andrew Moran,MID,Brighton,2024-09-14,10,50,TRUE
+Carl Rushworth,GK,Brighton,2024-09-14,10,40,TRUE
+Georginio Rutter,MID,Brighton,2024-09-14,10,55,TRUE
+Ferdi Kadioglu,DEF,Brighton,2024-09-14,10,45,TRUE
+Matt O'Riley,MID,Brighton,2024-09-14,10,55,TRUE
+Eddie Nketiah,FWD,Crystal Palace,2024-09-14,11,59,TRUE
+Trevoh Chalobah,DEF,Crystal Palace,2024-09-14,11,44,TRUE
+Naouirou Ahamada,MID,Crystal Palace,2024-09-14,11,45,TRUE
+Cheick Doucouré,MID,Crystal Palace,2024-09-14,11,49,TRUE
+Chris Richards,DEF,Crystal Palace,2024-09-14,11,45,TRUE
+Chadi Riad Dnanou,DEF,Crystal Palace,2024-09-14,11,44,TRUE
+Nathaniel Clyne,DEF,Crystal Palace,2024-09-14,11,44,TRUE
+Malcolm Ebiowei,MID,Crystal Palace,2024-09-14,11,45,TRUE
+Eberechi Eze,MID,Crystal Palace,2024-09-14,11,69,TRUE
+Marc Guéhi,DEF,Crystal Palace,2024-09-14,11,45,TRUE
+Dean Henderson,GK,Crystal Palace,2024-09-14,11,45,TRUE
+Rob Holding,DEF,Crystal Palace,2024-09-14,11,44,TRUE
+Will Hughes,MID,Crystal Palace,2024-09-14,11,49,TRUE
+Daichi Kamada,MID,Crystal Palace,2024-09-14,11,54,TRUE
+Jefferson Lerma Solís,MID,Crystal Palace,2024-09-14,11,49,TRUE
+Jean-Philippe Mateta,FWD,Crystal Palace,2024-09-14,11,74,TRUE
+Matheus França de Oliveira,MID,Crystal Palace,2024-09-14,11,44,TRUE
+Remi Matthews,GK,Crystal Palace,2024-09-14,11,40,TRUE
+Tyrick Mitchell,DEF,Crystal Palace,2024-09-14,11,49,TRUE
+Daniel Muñoz,DEF,Crystal Palace,2024-09-14,11,50,TRUE
+David Ozoh,MID,Crystal Palace,2024-09-14,11,45,TRUE
+Jesurun Rak-Sakyi,MID,Crystal Palace,2024-09-14,11,45,TRUE
+Jeffrey Schlupp,MID,Crystal Palace,2024-09-14,11,49,TRUE
+Joel Ward,DEF,Crystal Palace,2024-09-14,11,44,TRUE
+Adam Wharton,MID,Crystal Palace,2024-09-14,11,50,TRUE
+Matt Turner,GK,Crystal Palace,2024-09-14,11,40,TRUE
+Ismaïla Sarr,MID,Crystal Palace,2024-09-14,11,59,TRUE
+Franco Umeh-Chibueze,MID,Crystal Palace,2024-09-14,11,45,TRUE
+Justin Devenny,MID,Crystal Palace,2024-09-14,11,45,TRUE
+Asher Agbinone,MID,Crystal Palace,2024-09-14,11,45,TRUE
+Kaden Rodney,MID,Crystal Palace,2024-09-14,11,45,TRUE
+Maxence Lacroix,DEF,Crystal Palace,2024-09-14,11,45,TRUE
+Reiss Nelson,MID,Fulham,2024-09-14,19,50,TRUE
+Emile Smith Rowe,MID,Fulham,2024-09-14,19,56,TRUE
+Joachim Andersen,DEF,Fulham,2024-09-14,19,44,TRUE
+Adama Traoré,MID,Fulham,2024-09-14,19,50,TRUE
+Andreas Hoelgebaum Pereira,MID,Fulham,2024-09-14,19,54,TRUE
+Calvin Bassey,DEF,Fulham,2024-09-14,19,45,TRUE
+Steven Benda,GK,Fulham,2024-09-14,19,40,TRUE
+Tom Cairney,MID,Fulham,2024-09-14,19,49,TRUE
+Timothy Castagne,DEF,Fulham,2024-09-14,19,44,TRUE
+Issa Diop,DEF,Fulham,2024-09-14,19,45,TRUE
+Luke Harris,MID,Fulham,2024-09-14,19,45,TRUE
+Alex Iwobi,MID,Fulham,2024-09-14,19,55,TRUE
+Bernd Leno,GK,Fulham,2024-09-14,19,50,TRUE
+Saša Lukić,MID,Fulham,2024-09-14,19,50,TRUE
+Kevin Mbabu,DEF,Fulham,2024-09-14,19,40,TRUE
+Rodrigo Muniz Carvalho,FWD,Fulham,2024-09-14,19,61,TRUE
+Raúl Jiménez,FWD,Fulham,2024-09-14,19,54,TRUE
+Tim Ream,DEF,Fulham,2024-09-14,19,45,TRUE
+Harrison Reed,MID,Fulham,2024-09-14,19,49,TRUE
+Antonee Robinson,DEF,Fulham,2024-09-14,19,46,TRUE
+Jay Stansfield,FWD,Fulham,2024-09-14,19,50,TRUE
+Kenny Tete,DEF,Fulham,2024-09-14,19,45,TRUE
+Carlos Vinícius Alves Morais,FWD,Fulham,2024-09-14,19,50,TRUE
+Harry Wilson,MID,Fulham,2024-09-14,19,54,TRUE
+Ryan Sessegnon,DEF,Fulham,2024-09-14,19,44,TRUE
+Jorge Cuenca Barreno,DEF,Fulham,2024-09-14,19,44,TRUE
+Josh King,MID,Fulham,2024-09-14,19,45,TRUE
+Martial Godo,MID,Fulham,2024-09-14,19,45,TRUE
+Sander Berge,MID,Fulham,2024-09-14,19,50,TRUE
+Alisson Ramses Becker,GK,Liverpool,2024-09-14,16,55,TRUE
+Trent Alexander-Arnold,DEF,Liverpool,2024-09-14,16,70,TRUE
+Stefan Bajčetić Maquieira,MID,Liverpool,2024-09-14,16,45,TRUE
+Conor Bradley,DEF,Liverpool,2024-09-14,16,49,TRUE
+Bobby Clark,MID,Liverpool,2024-09-14,16,45,TRUE
+Darwin Núñez Ribeiro,FWD,Liverpool,2024-09-14,16,73,TRUE
+Diogo Teixeira da Silva,MID,Liverpool,2024-09-14,16,76,TRUE
+Ben Doak,MID,Liverpool,2024-09-14,16,45,TRUE
+Harvey Elliott,MID,Liverpool,2024-09-14,16,53,TRUE
+Endo Wataru,MID,Liverpool,2024-09-14,16,49,TRUE
+Cody Gakpo,FWD,Liverpool,2024-09-14,16,73,TRUE
+Joe Gomez,DEF,Liverpool,2024-09-14,16,49,TRUE
+Ryan Gravenberch,MID,Liverpool,2024-09-14,16,50,TRUE
+Curtis Jones,MID,Liverpool,2024-09-14,16,54,TRUE
+Caoimhin Kelleher,GK,Liverpool,2024-09-14,16,44,TRUE
+Ibrahima Konaté,DEF,Liverpool,2024-09-14,16,50,TRUE
+Luis Díaz,MID,Liverpool,2024-09-14,16,76,TRUE
+Mohamed Salah,MID,Liverpool,2024-09-14,16,127,TRUE
+Alexis Mac Allister,MID,Liverpool,2024-09-14,16,64,TRUE
+James McConnell,MID,Liverpool,2024-09-14,16,45,TRUE
+Tyler Morton,MID,Liverpool,2024-09-14,16,45,TRUE
+Nathaniel Phillips,DEF,Liverpool,2024-09-14,16,40,TRUE
+Jarell Quansah,DEF,Liverpool,2024-09-14,16,43,TRUE
+Rhys Williams,DEF,Liverpool,2024-09-14,16,40,TRUE
+Andrew Robertson,DEF,Liverpool,2024-09-14,16,60,TRUE
+Dominik Szoboszlai,MID,Liverpool,2024-09-14,16,65,TRUE
+Konstantinos Tsimikas,DEF,Liverpool,2024-09-14,16,48,TRUE
+Virgil van Dijk,DEF,Liverpool,2024-09-14,16,60,TRUE
+Federico Chiesa,MID,Liverpool,2024-09-14,16,70,TRUE
+Manuel Akanji,DEF,Man City,2024-09-14,4,55,TRUE
+Nathan Aké,DEF,Man City,2024-09-14,4,54,TRUE
+Bernardo Veiga de Carvalho e Silva,MID,Man City,2024-09-14,4,66,TRUE
+Oscar Bobb,MID,Man City,2024-09-14,4,48,TRUE
+Scott Carson,GK,Man City,2024-09-14,4,40,TRUE
+Kevin De Bruyne,MID,Man City,2024-09-14,4,96,TRUE
+Jérémy Doku,MID,Man City,2024-09-14,4,65,TRUE
+Ederson Santana de Moraes,GK,Man City,2024-09-14,4,55,TRUE
+Phil Foden,MID,Man City,2024-09-14,4,94,TRUE
+Jack Grealish,MID,Man City,2024-09-14,4,64,TRUE
+Joško Gvardiol,DEF,Man City,2024-09-14,4,60,TRUE
+Erling Haaland,FWD,Man City,2024-09-14,4,152,TRUE
+Julián Álvarez,FWD,Man City,2024-09-14,4,70,TRUE
+João Cavaco Cancelo,DEF,Man City,2024-09-14,4,53,TRUE
+Mateo Kovačić,MID,Man City,2024-09-14,4,55,TRUE
+Rico Lewis,DEF,Man City,2024-09-14,4,47,TRUE
+Matheus Luiz Nunes,MID,Man City,2024-09-14,4,49,TRUE
+James McAtee,MID,Man City,2024-09-14,4,49,TRUE
+Stefan Ortega Moreno,GK,Man City,2024-09-14,4,54,TRUE
+Rodrigo 'Rodri' Hernandez,MID,Man City,2024-09-14,4,64,TRUE
+Rúben Gato Alves Dias,DEF,Man City,2024-09-14,4,55,TRUE
+John Stones,DEF,Man City,2024-09-14,4,54,TRUE
+Kyle Walker,DEF,Man City,2024-09-14,4,54,TRUE
+Sávio 'Savinho' Moreira de Oliveira,MID,Man City,2024-09-14,4,65,TRUE
+Nico O'Reilly,MID,Man City,2024-09-14,4,50,TRUE
+Ilkay Gündogan,MID,Man City,2024-09-14,4,65,TRUE
+Issa Kaboré,DEF,Man City,2024-09-14,4,45,TRUE
+Aaron Ramsdale,GK,Southampton,2024-09-14,14,44,TRUE
+Cameron Archer,FWD,Southampton,2024-09-14,14,50,TRUE
+Lesley Ugochukwu,MID,Southampton,2024-09-14,14,45,TRUE
+Ryan Fraser,MID,Southampton,2024-09-14,14,49,TRUE
+Carlos Alcaraz Durán,MID,Southampton,2024-09-14,14,49,TRUE
+Samuel Amo-Ameyaw,MID,Southampton,2024-09-14,14,45,TRUE
+Joe Aribo,MID,Southampton,2024-09-14,14,50,TRUE
+Adam Armstrong,FWD,Southampton,2024-09-14,14,55,TRUE
+Gavin Bazunu,GK,Southampton,2024-09-14,14,44,TRUE
+Jan Bednarek,DEF,Southampton,2024-09-14,14,40,TRUE
+Armel Bella-Kotchap,DEF,Southampton,2024-09-14,14,40,TRUE
+James Bree,DEF,Southampton,2024-09-14,14,40,TRUE
+Shea Charles,MID,Southampton,2024-09-14,14,45,TRUE
+Samuel Edozie,MID,Southampton,2024-09-14,14,49,TRUE
+Ronnie Edwards,DEF,Southampton,2024-09-14,14,40,TRUE
+Taylor Harwood-Bellis,DEF,Southampton,2024-09-14,14,40,TRUE
+Kamaldeen Sulemana,MID,Southampton,2024-09-14,14,50,TRUE
+Adam Lallana,MID,Southampton,2024-09-14,14,50,TRUE
+Juan Larios López,DEF,Southampton,2024-09-14,14,40,TRUE
+Mateusz Lis,GK,Southampton,2024-09-14,14,40,TRUE
+Joe Lumley,GK,Southampton,2024-09-14,14,40,TRUE
+Ryan Manning,DEF,Southampton,2024-09-14,14,44,TRUE
+Sékou Mara,FWD,Southampton,2024-09-14,14,50,TRUE
+Alex McCarthy,GK,Southampton,2024-09-14,14,45,TRUE
+Paul Onuachu,FWD,Southampton,2024-09-14,14,50,TRUE
+Will Smallbone,MID,Southampton,2024-09-14,14,50,TRUE
+Jack Stephens,DEF,Southampton,2024-09-14,14,40,TRUE
+Ross Stewart,FWD,Southampton,2024-09-14,14,45,TRUE
+Sugawara Yukinari,DEF,Southampton,2024-09-14,14,45,TRUE
+Charlie Taylor,DEF,Southampton,2024-09-14,14,40,TRUE
+Kyle Walker-Peters,DEF,Southampton,2024-09-14,14,45,TRUE
+Nathan Wood-Gordon,DEF,Southampton,2024-09-14,14,40,TRUE
+Maxwel Cornet,MID,Southampton,2024-09-14,14,49,TRUE
+Flynn Downes,MID,Southampton,2024-09-14,14,50,TRUE
+Ben Brereton Díaz,MID,Southampton,2024-09-14,14,54,TRUE
+Tyler Dibling,MID,Southampton,2024-09-14,14,45,TRUE
+Mateus Gonçalo Espanha Fernandes,MID,Southampton,2024-09-14,14,50,TRUE
+Dominic Solanke-Mitchell,FWD,Spurs,2024-09-15,1,75,TRUE
+Ashley Phillips,DEF,Spurs,2024-09-15,1,40,TRUE
+Brandon Austin,GK,Spurs,2024-09-15,1,40,TRUE
+Rodrigo Bentancur,MID,Spurs,2024-09-15,1,50,TRUE
+Lucas Bergvall,MID,Spurs,2024-09-15,1,45,TRUE
+Yves Bissouma,MID,Spurs,2024-09-15,1,50,TRUE
+Bryan Gil Salvatierra,MID,Spurs,2024-09-15,1,50,TRUE
+Ben Davies,DEF,Spurs,2024-09-15,1,44,TRUE
+Alfie Devine,MID,Spurs,2024-09-15,1,45,TRUE
+Radu Drăgușin,DEF,Spurs,2024-09-15,1,44,TRUE
+Emerson Leite de Souza Junior,DEF,Spurs,2024-09-15,1,45,TRUE
+Fraser Forster,GK,Spurs,2024-09-15,1,45,TRUE
+Archie Gray,MID,Spurs,2024-09-15,1,49,TRUE
+Pierre-Emile Højbjerg,MID,Spurs,2024-09-15,1,50,TRUE
+Brennan Johnson,MID,Spurs,2024-09-15,1,64,TRUE
+Dejan Kulusevski,MID,Spurs,2024-09-15,1,64,TRUE
+Giovani Lo Celso,MID,Spurs,2024-09-15,1,49,TRUE
+James Maddison,MID,Spurs,2024-09-15,1,75,TRUE
+Pedro Porro,DEF,Spurs,2024-09-15,1,55,TRUE
+Sergio Reguilón,DEF,Spurs,2024-09-15,1,44,TRUE
+Richarlison de Andrade,FWD,Spurs,2024-09-15,1,69,TRUE
+Cristian Romero,DEF,Spurs,2024-09-15,1,51,TRUE
+Pape Matar Sarr,MID,Spurs,2024-09-15,1,49,TRUE
+Dane Scarlett,FWD,Spurs,2024-09-15,1,45,TRUE
+Manor Solomon,MID,Spurs,2024-09-15,1,54,TRUE
+Son Heung-min,MID,Spurs,2024-09-15,1,100,TRUE
+Djed Spence,DEF,Spurs,2024-09-15,1,44,TRUE
+Destiny Udogie,DEF,Spurs,2024-09-15,1,50,TRUE
+Micky van de Ven,DEF,Spurs,2024-09-15,1,45,TRUE
+Alejo Véliz,FWD,Spurs,2024-09-15,1,50,TRUE
+Guglielmo Vicario,GK,Spurs,2024-09-15,1,50,TRUE
+Timo Werner,MID,Spurs,2024-09-15,1,64,TRUE
+Alfie Whiteman,GK,Spurs,2024-09-15,1,40,TRUE
+Will Lankshear,FWD,Spurs,2024-09-15,1,45,TRUE
+Mikey Moore,MID,Spurs,2024-09-15,1,45,TRUE
+Wilson Odobert,MID,Spurs,2024-09-15,1,55,TRUE
+Sam Johnstone,GK,Wolves,2024-09-15,15,44,TRUE
+Rayan Aït-Nouri,DEF,Wolves,2024-09-15,15,45,TRUE
+Boubacar Traoré,MID,Wolves,2024-09-15,15,49,TRUE
+Jean-Ricner Bellegarde,MID,Wolves,2024-09-15,15,50,TRUE
+Daniel Bentley,GK,Wolves,2024-09-15,15,40,TRUE
+Francisco Jorge Tomás Oliveira,MID,Wolves,2024-09-15,15,45,TRUE
+Tawanda Chirewa,MID,Wolves,2024-09-15,15,45,TRUE
+Leon Chiwome,FWD,Wolves,2024-09-15,15,45,TRUE
+Luke Cundle,MID,Wolves,2024-09-15,15,45,TRUE
+Matheus Santos Carneiro Da Cunha,FWD,Wolves,2024-09-15,15,65,TRUE
+Craig Dawson,DEF,Wolves,2024-09-15,15,45,TRUE
+Matt Doherty,DEF,Wolves,2024-09-15,15,45,TRUE
+Tommy Doyle,MID,Wolves,2024-09-15,15,49,TRUE
+Fábio Silva,FWD,Wolves,2024-09-15,15,50,TRUE
+Nathan Fraser,FWD,Wolves,2024-09-15,15,45,TRUE
+Enso González,MID,Wolves,2024-09-15,15,45,TRUE
+Gonçalo Manuel Ganchinho Guedes,MID,Wolves,2024-09-15,15,54,TRUE
+Hugo Bueno López,DEF,Wolves,2024-09-15,15,45,TRUE
+Hwang Hee-chan,MID,Wolves,2024-09-15,15,64,TRUE
+Joe Hodge,MID,Wolves,2024-09-15,15,45,TRUE
+Ki-Jana Hoever,DEF,Wolves,2024-09-15,15,40,TRUE
+João Victor Gomes da Silva,MID,Wolves,2024-09-15,15,49,TRUE
+José Malheiro de Sá,GK,Wolves,2024-09-15,15,45,TRUE
+Saša Kalajdžić,FWD,Wolves,2024-09-15,15,49,TRUE
+Tom King,GK,Wolves,2024-09-15,15,40,TRUE
+Mario Lemina,MID,Wolves,2024-09-15,15,50,TRUE
+Yerson Mosquera,DEF,Wolves,2024-09-15,15,40,TRUE
+Nélson Cabral Semedo,DEF,Wolves,2024-09-15,15,45,TRUE
+Pedro Cardoso de Lima,DEF,Wolves,2024-09-15,15,40,TRUE
+Daniel Castelo Podence,MID,Wolves,2024-09-15,15,55,TRUE
+Rodrigo Martins Gomes,MID,Wolves,2024-09-15,15,54,TRUE
+Santiago Bueno,DEF,Wolves,2024-09-15,15,44,TRUE
+Pablo Sarabia,MID,Wolves,2024-09-15,15,54,TRUE
+Jørgen Strand Larsen,FWD,Wolves,2024-09-15,15,55,TRUE
+Toti António Gomes,DEF,Wolves,2024-09-15,15,45,TRUE
+Bastien Meupiyou,DEF,Wolves,2024-09-15,15,40,TRUE
+André Trindade da Costa Neto,MID,Wolves,2024-09-15,15,50,TRUE
+Carlos Roberto Forbs Borges,MID,Wolves,2024-09-15,15,55,TRUE
+Fábio Ferreira Vieira,MID,Arsenal,2024-09-15,18,54,FALSE
+Gabriel Fernando de Jesus,FWD,Arsenal,2024-09-15,18,68,FALSE
+Gabriel dos Santos Magalhães,DEF,Arsenal,2024-09-15,18,60,FALSE
+Kai Havertz,FWD,Arsenal,2024-09-15,18,81,FALSE
+Karl Hein,GK,Arsenal,2024-09-15,18,40,FALSE
+Jurriën Timber,DEF,Arsenal,2024-09-15,18,55,FALSE
+Jorge Luiz Frello Filho,MID,Arsenal,2024-09-15,18,49,FALSE
+Jakub Kiwior,DEF,Arsenal,2024-09-15,18,49,FALSE
+Gabriel Martinelli Silva,MID,Arsenal,2024-09-15,18,69,FALSE
+Ethan Nwaneri,MID,Arsenal,2024-09-15,18,45,FALSE
+Martin Ødegaard,MID,Arsenal,2024-09-15,18,84,FALSE
+David Raya Martin,GK,Arsenal,2024-09-15,18,55,FALSE
+Declan Rice,MID,Arsenal,2024-09-15,18,64,FALSE
+Bukayo Saka,MID,Arsenal,2024-09-15,18,101,FALSE
+William Saliba,DEF,Arsenal,2024-09-15,18,60,FALSE
+Thomas Partey,MID,Arsenal,2024-09-15,18,50,FALSE
+Kieran Tierney,DEF,Arsenal,2024-09-15,18,44,FALSE
+Tomiyasu Takehiro,DEF,Arsenal,2024-09-15,18,49,FALSE
+Leandro Trossard,MID,Arsenal,2024-09-15,18,69,FALSE
+Benjamin White,DEF,Arsenal,2024-09-15,18,65,FALSE
+Oleksandr Zinchenko,DEF,Arsenal,2024-09-15,18,49,FALSE
+Norberto Murara Neto,GK,Arsenal,2024-09-15,18,45,FALSE
+Raheem Sterling,MID,Arsenal,2024-09-15,18,68,FALSE
+Riccardo Calafiori,DEF,Arsenal,2024-09-15,18,58,FALSE
+Myles Lewis-Skelly,MID,Arsenal,2024-09-15,18,45,FALSE
+Mikel Merino,MID,Arsenal,2024-09-15,18,60,FALSE
+Salah-Eddine Oulad M'hand,MID,Arsenal,2024-09-15,18,45,FALSE
+Tommy Setford,GK,Arsenal,2024-09-15,18,45,FALSE
+Kristoffer Ajer,DEF,Brentford,2024-09-14,13,45,FALSE
+Ethan Brierley,MID,Brentford,2024-09-14,13,45,FALSE
+Nathan Collins,DEF,Brentford,2024-09-14,13,45,FALSE
+Mikkel Damsgaard,MID,Brentford,2024-09-14,13,50,FALSE
+Josh Dasilva,MID,Brentford,2024-09-14,13,49,FALSE
+Mark Flekken,GK,Brentford,2024-09-14,13,45,FALSE
+Rico Henry,DEF,Brentford,2024-09-14,13,44,FALSE
+Aaron Hickey,DEF,Brentford,2024-09-14,13,44,FALSE
+Vitaly Janelt,MID,Brentford,2024-09-14,13,49,FALSE
+Mathias Jensen,MID,Brentford,2024-09-14,13,55,FALSE
+Kim Ji-soo,DEF,Brentford,2024-09-14,13,40,FALSE
+Yunus Emre Konak,MID,Brentford,2024-09-14,13,45,FALSE
+Keane Lewis-Potter,MID,Brentford,2024-09-14,13,50,FALSE
+Bryan Mbeumo,MID,Brentford,2024-09-14,13,71,FALSE
+Ben Mee,DEF,Brentford,2024-09-14,13,44,FALSE
+Christian Nørgaard,MID,Brentford,2024-09-14,13,50,FALSE
+Frank Onyeka,MID,Brentford,2024-09-14,13,49,FALSE
+Myles Peart-Harris,MID,Brentford,2024-09-14,13,45,FALSE
+Ethan Pinnock,DEF,Brentford,2024-09-14,13,45,FALSE
+Mads Roerslev Rasmussen,DEF,Brentford,2024-09-14,13,45,FALSE
+Kevin Schade,MID,Brentford,2024-09-14,13,55,FALSE
+Igor Thiago Nascimento Rodrigues,FWD,Brentford,2024-09-14,13,59,FALSE
+Ivan Toney,FWD,Brentford,2024-09-14,13,73,FALSE
+Hákon Valdimarsson,GK,Brentford,2024-09-14,13,40,FALSE
+Yoane Wissa,FWD,Brentford,2024-09-14,13,61,FALSE
+Yehor Yarmoliuk,MID,Brentford,2024-09-14,13,45,FALSE
+Mathias Jorgensen,DEF,Brentford,2024-09-14,13,45,FALSE
+Fábio Freitas Gouveia Carvalho,MID,Brentford,2024-09-14,13,49,FALSE
+Sepp van den Berg,DEF,Brentford,2024-09-14,13,40,FALSE
+Ryan Trevitt,MID,Brentford,2024-09-14,13,45,FALSE
+Gustavo Nunes Fernandes Gomes,MID,Brentford,2024-09-14,13,50,FALSE
+Jayden Meghoma,DEF,Brentford,2024-09-14,13,40,FALSE
+Andrey Nascimento dos Santos,MID,Chelsea,2024-09-14,3,45,FALSE
+Ângelo Gabriel Borges Damaceno,MID,Chelsea,2024-09-14,3,45,FALSE
+Benoît Badiashile,DEF,Chelsea,2024-09-14,3,45,FALSE
+Lucas Bergström,GK,Chelsea,2024-09-14,3,40,FALSE
+Marcus Bettinelli,GK,Chelsea,2024-09-14,3,40,FALSE
+Moisés Caicedo Corozo,MID,Chelsea,2024-09-14,3,50,FALSE
+Cesare Casadei,MID,Chelsea,2024-09-14,3,45,FALSE
+Ben Chilwell,DEF,Chelsea,2024-09-14,3,49,FALSE
+Carney Chukwuemeka,MID,Chelsea,2024-09-14,3,49,FALSE
+Levi Colwill,DEF,Chelsea,2024-09-14,3,45,FALSE
+Marc Cucurella Saseta,DEF,Chelsea,2024-09-14,3,50,FALSE
+David Datro Fofana,FWD,Chelsea,2024-09-14,3,54,FALSE
+Deivid Washington de Souza Eugênio,FWD,Chelsea,2024-09-14,3,50,FALSE
+Kiernan Dewsbury-Hall,MID,Chelsea,2024-09-14,3,59,FALSE
+Axel Disasi,DEF,Chelsea,2024-09-14,3,44,FALSE
+Enzo Fernández,MID,Chelsea,2024-09-14,3,50,FALSE
+Conor Gallagher,MID,Chelsea,2024-09-14,3,59,FALSE
+Alfie Gilchrist,DEF,Chelsea,2024-09-14,3,40,FALSE
+Malo Gusto,DEF,Chelsea,2024-09-14,3,50,FALSE
+Reece James,DEF,Chelsea,2024-09-14,3,50,FALSE
+Omari Kellyman,MID,Chelsea,2024-09-14,3,45,FALSE
+Roméo Lavia,MID,Chelsea,2024-09-14,3,45,FALSE
+Romelu Lukaku Bolingoli,FWD,Chelsea,2024-09-14,3,63,FALSE
+Malang Sarr,DEF,Chelsea,2024-09-14,3,45,FALSE
+Noni Madueke,MID,Chelsea,2024-09-14,3,66,FALSE
+Marc Guiu Paz,FWD,Chelsea,2024-09-14,3,50,FALSE
+Mykhailo Mudryk,MID,Chelsea,2024-09-14,3,64,FALSE
+Nicolas Jackson,FWD,Chelsea,2024-09-14,3,76,FALSE
+Christopher Nkunku,MID,Chelsea,2024-09-14,3,62,FALSE
+Cole Palmer,MID,Chelsea,2024-09-14,3,106,FALSE
+Đorđe Petrović,GK,Chelsea,2024-09-14,3,44,FALSE
+Renato Palma Veiga,MID,Chelsea,2024-09-14,3,45,FALSE
+Robert Sánchez,GK,Chelsea,2024-09-14,3,45,FALSE
+Tosin Adarabioyo,DEF,Chelsea,2024-09-14,3,44,FALSE
+Wesley Fofana,DEF,Chelsea,2024-09-14,3,45,FALSE
+Jadon Sancho,MID,Chelsea,2024-09-14,3,63,FALSE
+Pedro Lomba Neto,MID,Chelsea,2024-09-14,3,65,FALSE
+Caleb Wiley,DEF,Chelsea,2024-09-14,3,40,FALSE
+Filip Jørgensen,GK,Chelsea,2024-09-14,3,44,FALSE
+João Félix Sequeira,MID,Chelsea,2024-09-14,3,65,FALSE
+Armando Broja,FWD,Everton,2024-09-14,2,55,FALSE
+Abdoulaye Doucouré,MID,Everton,2024-09-14,2,54,FALSE
+Norberto Bercique Gomes Betuncal,FWD,Everton,2024-09-14,2,50,FALSE
+Jarrad Branthwaite,DEF,Everton,2024-09-14,2,49,FALSE
+Dominic Calvert-Lewin,FWD,Everton,2024-09-14,2,59,FALSE
+Séamus Coleman,DEF,Everton,2024-09-14,2,44,FALSE
+Idrissa Gueye,MID,Everton,2024-09-14,2,50,FALSE
+James Garner,MID,Everton,2024-09-14,2,50,FALSE
+Jack Harrison,MID,Everton,2024-09-14,2,54,FALSE
+Mason Holgate,DEF,Everton,2024-09-14,2,40,FALSE
+Tim Iroegbunam,MID,Everton,2024-09-14,2,45,FALSE
+João Neves Virgínia,GK,Everton,2024-09-14,2,40,FALSE
+Michael Keane,DEF,Everton,2024-09-14,2,40,FALSE
+Neal Maupay,FWD,Everton,2024-09-14,2,49,FALSE
+Dwight McNeil,MID,Everton,2024-09-14,2,54,FALSE
+Vitalii Mykolenko,DEF,Everton,2024-09-14,2,44,FALSE
+Iliman Ndiaye,FWD,Everton,2024-09-14,2,54,FALSE
+Nathan Patterson,DEF,Everton,2024-09-14,2,44,FALSE
+Jordan Pickford,GK,Everton,2024-09-14,2,49,FALSE
+James Tarkowski,DEF,Everton,2024-09-14,2,49,FALSE
+Youssef Ramalho Chermiti,FWD,Everton,2024-09-14,2,50,FALSE
+Ashley Young,DEF,Everton,2024-09-14,2,45,FALSE
+Jesper Lindstrøm,MID,Everton,2024-09-14,2,53,FALSE
+Jake O'Brien,DEF,Everton,2024-09-14,2,49,FALSE
+Harrison Armstrong,MID,Everton,2024-09-14,2,45,FALSE
+Jenson Metcalfe,MID,Everton,2024-09-14,2,45,FALSE
+Asmir Begovic,GK,Everton,2024-09-14,2,40,FALSE
+Roman Dixon,DEF,Everton,2024-09-14,2,40,FALSE
+Orel Mangala,MID,Everton,2024-09-14,2,50,FALSE
+Ali Al-Hamadi,FWD,Ipswich,2024-09-14,5,50,FALSE
+Elkan Baggott,DEF,Ipswich,2024-09-14,5,40,FALSE
+Nathan Broadhead,MID,Ipswich,2024-09-14,5,49,FALSE
+Cameron Burgess,DEF,Ipswich,2024-09-14,5,40,FALSE
+Wes Burns,MID,Ipswich,2024-09-14,5,49,FALSE
+Conor Chaplin,MID,Ipswich,2024-09-14,5,54,FALSE
+Harry Clarke,DEF,Ipswich,2024-09-14,5,40,FALSE
+Leif Davis,DEF,Ipswich,2024-09-14,5,45,FALSE
+Liam Delap,FWD,Ipswich,2024-09-14,5,55,FALSE
+George Edmundson,DEF,Ipswich,2024-09-14,5,40,FALSE
+Jacob Greaves,DEF,Ipswich,2024-09-14,5,40,FALSE
+Marcus Myers-Harness,MID,Ipswich,2024-09-14,5,49,FALSE
+George Hirst,FWD,Ipswich,2024-09-14,5,54,FALSE
+Cameron Humphreys,MID,Ipswich,2024-09-14,5,45,FALSE
+Omari Giraud-Hutchinson,MID,Ipswich,2024-09-14,5,55,FALSE
+Ben Johnson,DEF,Ipswich,2024-09-14,5,40,FALSE
+Freddie Ladapo,FWD,Ipswich,2024-09-14,5,45,FALSE
+Massimo Luongo,MID,Ipswich,2024-09-14,5,45,FALSE
+Sam Morsy,MID,Ipswich,2024-09-14,5,49,FALSE
+Corrie Ndaba,DEF,Ipswich,2024-09-14,5,40,FALSE
+Cieran Slicker,GK,Ipswich,2024-09-14,5,40,FALSE
+Jack Taylor,MID,Ipswich,2024-09-14,5,49,FALSE
+Axel Tuanzebe,DEF,Ipswich,2024-09-14,5,40,FALSE
+Christian Walton,GK,Ipswich,2024-09-14,5,45,FALSE
+Luke Woolfenden,DEF,Ipswich,2024-09-14,5,40,FALSE
+Kalvin Phillips,MID,Ipswich,2024-09-14,5,50,FALSE
+Arijanet Muric,GK,Ipswich,2024-09-14,5,44,FALSE
+Conor Townsend,DEF,Ipswich,2024-09-14,5,40,FALSE
+Sam Szmodics,MID,Ipswich,2024-09-14,5,60,FALSE
+Jens Cajuste,MID,Ipswich,2024-09-14,5,45,FALSE
+Dara O'Shea,DEF,Ipswich,2024-09-14,5,40,FALSE
+Jack Clarke,MID,Ipswich,2024-09-14,5,55,FALSE
+Chiedozie Ogbene,MID,Ipswich,2024-09-14,5,50,FALSE
+Facundo Buonanotte,MID,Leicester,2024-09-14,7,50,FALSE
+Jordan Ayew,MID,Leicester,2024-09-14,7,54,FALSE
+Odsonne Edouard,FWD,Leicester,2024-09-14,7,54,FALSE
+Boubakary Soumaré,MID,Leicester,2024-09-14,7,45,FALSE
+Tom Cannon,FWD,Leicester,2024-09-14,7,45,FALSE
+Hamza Choudhury,MID,Leicester,2024-09-14,7,45,FALSE
+Conor Coady,DEF,Leicester,2024-09-14,7,40,FALSE
+Patson Daka,FWD,Leicester,2024-09-14,7,49,FALSE
+Bobby De Cordova-Reid,MID,Leicester,2024-09-14,7,54,FALSE
+Wout Faes,DEF,Leicester,2024-09-14,7,41,FALSE
+Michael Golding,MID,Leicester,2024-09-14,7,45,FALSE
+Mads Hermansen,GK,Leicester,2024-09-14,7,45,FALSE
+Daniel Iversen,GK,Leicester,2024-09-14,7,40,FALSE
+James Justin,DEF,Leicester,2024-09-14,7,45,FALSE
+Victor Kristiansen,DEF,Leicester,2024-09-14,7,45,FALSE
+Wanya Marçal-Madivádua,MID,Leicester,2024-09-14,7,45,FALSE
+Stephy Mavididi,MID,Leicester,2024-09-14,7,54,FALSE
+Kasey McAteer,MID,Leicester,2024-09-14,7,49,FALSE
+Wilfred Ndidi,MID,Leicester,2024-09-14,7,50,FALSE
+Caleb Okoli,DEF,Leicester,2024-09-14,7,40,FALSE
+Ricardo Barbosa Pereira,DEF,Leicester,2024-09-14,7,44,FALSE
+Harry Souttar,DEF,Leicester,2024-09-14,7,40,FALSE
+Jakub Stolarczyk,GK,Leicester,2024-09-14,7,40,FALSE
+Luke Thomas,DEF,Leicester,2024-09-14,7,40,FALSE
+Jamie Vardy,FWD,Leicester,2024-09-14,7,56,FALSE
+Jannik Vestergaard,DEF,Leicester,2024-09-14,7,40,FALSE
+Danny Ward,GK,Leicester,2024-09-14,7,40,FALSE
+Harry Winks,MID,Leicester,2024-09-14,7,45,FALSE
+Oliver Skipp,MID,Leicester,2024-09-14,7,49,FALSE
+Abdul Fatawu,MID,Leicester,2024-09-14,7,55,FALSE
+Will Alves,MID,Leicester,2024-09-14,7,45,FALSE
+Ben Nelson,DEF,Leicester,2024-09-14,7,40,FALSE
+Bilal El Khannouss,MID,Leicester,2024-09-14,7,50,FALSE
+Amad Diallo,MID,Man Utd,2024-09-14,17,50,FALSE
+Antony Matheus dos Santos,MID,Man Utd,2024-09-14,17,59,FALSE
+Bruno Borges Fernandes,MID,Man Utd,2024-09-14,17,84,FALSE
+Altay Bayindir,GK,Man Utd,2024-09-14,17,44,FALSE
+Carlos Henrique Casimiro,MID,Man Utd,2024-09-14,17,50,FALSE
+Diogo Dalot Teixeira,DEF,Man Utd,2024-09-14,17,50,FALSE
+Christian Eriksen,MID,Man Utd,2024-09-14,17,54,FALSE
+Jonny Evans,DEF,Man Utd,2024-09-14,17,44,FALSE
+Alejandro Garnacho,MID,Man Utd,2024-09-14,17,64,FALSE
+Hannibal Mejbri,MID,Man Utd,2024-09-14,17,45,FALSE
+Tom Heaton,GK,Man Utd,2024-09-14,17,40,FALSE
+Rasmus Højlund,FWD,Man Utd,2024-09-14,17,69,FALSE
+Victor Lindelöf,DEF,Man Utd,2024-09-14,17,44,FALSE
+Harry Maguire,DEF,Man Utd,2024-09-14,17,50,FALSE
+Kobbie Mainoo,MID,Man Utd,2024-09-14,17,54,FALSE
+Tyrell Malacia,DEF,Man Utd,2024-09-14,17,44,FALSE
+Lisandro Martínez,DEF,Man Utd,2024-09-14,17,45,FALSE
+Scott McTominay,MID,Man Utd,2024-09-14,17,49,FALSE
+Mason Mount,MID,Man Utd,2024-09-14,17,64,FALSE
+André Onana,GK,Man Utd,2024-09-14,17,50,FALSE
+Facundo Pellistri Rebollo,MID,Man Utd,2024-09-14,17,50,FALSE
+Marcus Rashford,MID,Man Utd,2024-09-14,17,69,FALSE
+Luke Shaw,DEF,Man Utd,2024-09-14,17,49,FALSE
+Joshua Zirkzee,FWD,Man Utd,2024-09-14,17,70,FALSE
+Leny Yoro,DEF,Man Utd,2024-09-14,17,44,FALSE
+Matthijs de Ligt,DEF,Man Utd,2024-09-14,17,50,FALSE
+Noussair Mazraoui,DEF,Man Utd,2024-09-14,17,45,FALSE
+Toby Collyer,MID,Man Utd,2024-09-14,17,45,FALSE
+Ethan Wheatley,FWD,Man Utd,2024-09-14,17,45,FALSE
+Manuel Ugarte,MID,Man Utd,2024-09-14,17,50,FALSE
+Alex Murphy,DEF,Newcastle,2024-09-15,20,40,FALSE
+Miguel Almirón Rejala,MID,Newcastle,2024-09-15,20,58,FALSE
+Harvey Barnes,MID,Newcastle,2024-09-15,20,64,FALSE
+Sven Botman,DEF,Newcastle,2024-09-15,20,45,FALSE
+Bruno Guimarães Rodriguez Moura,MID,Newcastle,2024-09-15,20,64,FALSE
+Dan Burn,DEF,Newcastle,2024-09-15,20,45,FALSE
+Martin Dúbravka,GK,Newcastle,2024-09-15,20,44,FALSE
+Anthony Gordon,MID,Newcastle,2024-09-15,20,74,FALSE
+Lewis Hall,DEF,Newcastle,2024-09-15,20,45,FALSE
+Isaac Hayden,MID,Newcastle,2024-09-15,20,45,FALSE
+Alexander Isak,FWD,Newcastle,2024-09-15,20,85,FALSE
+Jacob Murphy,MID,Newcastle,2024-09-15,20,54,FALSE
+Joelinton Cássio Apolinário de Lira,MID,Newcastle,2024-09-15,20,60,FALSE
+Lloyd Kelly,DEF,Newcastle,2024-09-15,20,45,FALSE
+Emil Krafth,DEF,Newcastle,2024-09-15,20,45,FALSE
+Garang Kuol,MID,Newcastle,2024-09-15,20,45,FALSE
+Jamaal Lascelles,DEF,Newcastle,2024-09-15,20,45,FALSE
+Jamal Lewis,DEF,Newcastle,2024-09-15,20,40,FALSE
+Tino Livramento,DEF,Newcastle,2024-09-15,20,45,FALSE
+Sean Longstaff,MID,Newcastle,2024-09-15,20,49,FALSE
+Lewis Miley,MID,Newcastle,2024-09-15,20,50,FALSE
+Odysseas Vlachodimos,GK,Newcastle,2024-09-15,20,44,FALSE
+Nick Pope,GK,Newcastle,2024-09-15,20,50,FALSE
+John Ruddy,GK,Newcastle,2024-09-15,20,40,FALSE
+Fabian Schär,DEF,Newcastle,2024-09-15,20,54,FALSE
+Matt Targett,DEF,Newcastle,2024-09-15,20,40,FALSE
+Sandro Tonali,MID,Newcastle,2024-09-15,20,55,FALSE
+Kieran Trippier,DEF,Newcastle,2024-09-15,20,58,FALSE
+Joe White,MID,Newcastle,2024-09-15,20,45,FALSE
+Joe Willock,MID,Newcastle,2024-09-15,20,49,FALSE
+Callum Wilson,FWD,Newcastle,2024-09-15,20,69,FALSE
+Miodrag Pivaš,DEF,Newcastle,2024-09-15,20,40,FALSE
+William Osula,FWD,Newcastle,2024-09-15,20,50,FALSE
+Álex Moreno Lopera,DEF,Nott'm Forest,2024-09-14,12,44,FALSE
+Ola Aina,DEF,Nott'm Forest,2024-09-14,12,44,FALSE
+Elliot Anderson,MID,Nott'm Forest,2024-09-14,12,50,FALSE
+Taiwo Awoniyi,FWD,Nott'm Forest,2024-09-14,12,58,FALSE
+Willy Boly,DEF,Nott'm Forest,2024-09-14,12,45,FALSE
+Josh Bowler,MID,Nott'm Forest,2024-09-14,12,45,FALSE
+Carlos Miguel dos Santos Pereira,GK,Nott'm Forest,2024-09-14,12,44,FALSE
+Eric da Silva Moreira,MID,Nott'm Forest,2024-09-14,12,45,FALSE
+Danilo dos Santos de Oliveira,MID,Nott'm Forest,2024-09-14,12,48,FALSE
+Emmanuel Dennis,FWD,Nott'm Forest,2024-09-14,12,50,FALSE
+Nicolás Domínguez,MID,Nott'm Forest,2024-09-14,12,49,FALSE
+Anthony Elanga,MID,Nott'm Forest,2024-09-14,12,54,FALSE
+Morgan Gibbs-White,MID,Nott'm Forest,2024-09-14,12,65,FALSE
+Callum Hudson-Odoi,MID,Nott'm Forest,2024-09-14,12,54,FALSE
+Alex Mighten,MID,Nott'm Forest,2024-09-14,12,45,FALSE
+Murillo Santiago Costa dos Santos,DEF,Nott'm Forest,2024-09-14,12,45,FALSE
+Neco Williams,DEF,Nott'm Forest,2024-09-14,12,45,FALSE
+Omar Richards,DEF,Nott'm Forest,2024-09-14,12,45,FALSE
+Lewis O'Brien,MID,Nott'm Forest,2024-09-14,12,50,FALSE
+Andrew Omobamidele,DEF,Nott'm Forest,2024-09-14,12,44,FALSE
+Jonathan Panzo,DEF,Nott'm Forest,2024-09-14,12,40,FALSE
+Ibrahim Sangaré,MID,Nott'm Forest,2024-09-14,12,45,FALSE
+Matz Sels,GK,Nott'm Forest,2024-09-14,12,45,FALSE
+Harry Toffolo,DEF,Nott'm Forest,2024-09-14,12,44,FALSE
+Hwang Ui-jo,FWD,Nott'm Forest,2024-09-14,12,45,FALSE
+Chris Wood,FWD,Nott'm Forest,2024-09-14,12,61,FALSE
+Joe Worrall,DEF,Nott'm Forest,2024-09-14,12,45,FALSE
+Ryan Yates,MID,Nott'm Forest,2024-09-14,12,50,FALSE
+James Ward-Prowse,MID,Nott'm Forest,2024-09-14,12,63,FALSE
+Nikola Milenković,DEF,Nott'm Forest,2024-09-14,12,45,FALSE
+João Pedro Ferreira Silva,MID,Nott'm Forest,2024-09-14,12,60,FALSE
+Ramón Sosa,MID,Nott'm Forest,2024-09-14,12,55,FALSE
+Felipe Rodrigues da Silva,DEF,Nott'm Forest,2024-09-14,12,45,FALSE
+Aaron Wan-Bissaka,DEF,West Ham,2024-09-14,9,45,FALSE
+Edson Álvarez Velázquez,MID,West Ham,2024-09-14,9,50,FALSE
+Michail Antonio,FWD,West Ham,2024-09-14,9,55,FALSE
+Alphonse Areola,GK,West Ham,2024-09-14,9,45,FALSE
+Jarrod Bowen,MID,West Ham,2024-09-14,9,75,FALSE
+Vladimír Coufal,DEF,West Ham,2024-09-14,9,45,FALSE
+Aaron Cresswell,DEF,West Ham,2024-09-14,9,40,FALSE
+George Earthy,MID,West Ham,2024-09-14,9,45,FALSE
+Emerson Palmieri dos Santos,DEF,West Ham,2024-09-14,9,45,FALSE
+Łukasz Fabiański,GK,West Ham,2024-09-14,9,40,FALSE
+Wes Foderingham,GK,West Ham,2024-09-14,9,45,FALSE
+Danny Ings,FWD,West Ham,2024-09-14,9,50,FALSE
+Max Kilman,DEF,West Ham,2024-09-14,9,45,FALSE
+Mohammed Kudus,MID,West Ham,2024-09-14,9,64,FALSE
+Luis Guilherme Lira dos Santos,MID,West Ham,2024-09-14,9,49,FALSE
+Lucas Tolentino Coelho de Lima,MID,West Ham,2024-09-14,9,60,FALSE
+Konstantinos Mavropanos,DEF,West Ham,2024-09-14,9,45,FALSE
+Nayef Aguerd,DEF,West Ham,2024-09-14,9,44,FALSE
+Tomáš Souček,MID,West Ham,2024-09-14,9,50,FALSE
+Kurt Zouma,DEF,West Ham,2024-09-14,9,44,FALSE
+Andy Irving,MID,West Ham,2024-09-14,9,49,FALSE
+Crysencio Summerville,MID,West Ham,2024-09-14,9,59,FALSE
+Guido Rodríguez,MID,West Ham,2024-09-14,9,50,FALSE
+Niclas Füllkrug,FWD,West Ham,2024-09-14,9,68,FALSE
+Jean-Clair Todibo,DEF,West Ham,2024-09-14,9,45,FALSE
+Kaelan Casey,DEF,West Ham,2024-09-14,9,40,FALSE
+Carlos Soler,MID,West Ham,2024-09-14,9,50,FALSE

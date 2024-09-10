@@ -1,0 +1,80 @@
+---
+title: "Model Card: XGB Model for Forwards"
+date: '`r Sys.Date()`'
+output: 
+  html_document
+params:
+    board: !r pins::board_folder(here::here(paste0("season ","2024_25","/models")))
+    name: xgb_fwd_reg
+    version: NULL
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(vetiver)
+library(pins)
+library(yardstick)
+knitr::opts_chunk$set(echo = FALSE)
+v <- vetiver_pin_read(params$board, params$name, version = params$version)
+v_meta <- pin_meta(params$board, params$name)
+theme_set(theme_light())
+```
+
+A [model card](https://doi.org/10.1145/3287560.3287596) provides brief, transparent, responsible reporting for a trained machine learning model.
+
+## Model details
+
+- Developed by PRENOLAN MUNSAMY
+- `r cli::pluralize("{v$description} using {ncol(v$prototype)} feature{?s}")`
+- XGB regression model built to predict the total points each FORWARD will earn in each game week
+- More details on feature engineering and/or data preprocessing for model
+- Version `r v$metadata$version` of this model was published at `r v_meta$created`
+- If you have questions about this model, please contact prenolanmunsamy@yahoo.com
+
+## Metrics
+
+- The metrics used to evaluate this model are rmse
+
+## Training data & evaluation data
+
+- The training dataset for this model was all game weeks data from the 2022_23 season
+- The training dataset for this model has the "prototype" or signature:
+
+    ```{r}
+    glimpse(v$prototype)
+    ```
+
+- The validation dataset used in this model card is the first 18 game weeks of the 2023_24 season
+- The test dataset used in this model card is the last 18 game weeks of the 2023_24 season
+
+```{r}
+## EVALUATION DATA:
+# eval_data <- 
+#   load_defender_data(here(paste0("season 2024_25","/data/model"),
+#                           "model_data.csv"))
+
+```
+
+
+## Quantitative analyses {.tabset}
+
+### Overall model performance
+
+```{r}
+v %>% 
+  pluck("metadata","user","metrics") %>% 
+  as_tibble()
+```
+
+### Visualize model performance
+
+```{r, fig.height=3}
+# preds %>%
+#     ggplot(aes(price, .pred, color = type)) +
+#     geom_abline(slope = 1, lty = 2, color = "gray60", size = 1.2) +
+#     geom_point(alpha = 0.5, show.legend = FALSE) +
+#     facet_wrap(vars(type))
+```
+
+
+
